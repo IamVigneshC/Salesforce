@@ -15,5 +15,5 @@ Lead - Company to Account
      
 Create Custom fields -> Formula     
      
-Set Validation Rule    
+Set Validation Rule (https://developer.salesforce.com/docs/atlas.en-us.usefulValidationRules.meta/usefulValidationRules/fields_useful_validation_formulas_oppty_mgmt.htm)
 
